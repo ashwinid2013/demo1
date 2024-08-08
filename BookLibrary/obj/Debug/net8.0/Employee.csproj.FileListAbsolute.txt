@@ -1,0 +1,12 @@
+D:\CDAC\C#\Day9\BookLibrary\bin\Debug\net8.0\Employee.deps.json
+D:\CDAC\C#\Day9\BookLibrary\bin\Debug\net8.0\Employee.dll
+D:\CDAC\C#\Day9\BookLibrary\bin\Debug\net8.0\Employee.pdb
+D:\CDAC\C#\Day9\BookLibrary\obj\Debug\net8.0\Employee.csproj.AssemblyReference.cache
+D:\CDAC\C#\Day9\BookLibrary\obj\Debug\net8.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\C#\Day9\BookLibrary\obj\Debug\net8.0\Employee.AssemblyInfoInputs.cache
+D:\CDAC\C#\Day9\BookLibrary\obj\Debug\net8.0\Employee.AssemblyInfo.cs
+D:\CDAC\C#\Day9\BookLibrary\obj\Debug\net8.0\Employee.csproj.CoreCompileInputs.cache
+D:\CDAC\C#\Day9\BookLibrary\obj\Debug\net8.0\Employee.dll
+D:\CDAC\C#\Day9\BookLibrary\obj\Debug\net8.0\refint\Employee.dll
+D:\CDAC\C#\Day9\BookLibrary\obj\Debug\net8.0\Employee.pdb
+D:\CDAC\C#\Day9\BookLibrary\obj\Debug\net8.0\ref\Employee.dll
